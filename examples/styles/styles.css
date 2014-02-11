@@ -14,6 +14,17 @@ img {
   padding: -100px;
 }
 
+#godzilla img{
+  padding-left: 550px;
+  padding-top: 150px;
+  width: 50%;
+}
+
+#ship img{
+  width: 300%;
+  height: 300%;
+}
+
 .scene2 {
   max-width: 500px;
   margin: 0 auto;
