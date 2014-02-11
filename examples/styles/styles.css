@@ -8,13 +8,14 @@ img {
   width: 100%;
 }
 
-.scene {
-  max-width: 500px;
+/* Scene 1*/
+.scene1 {
   margin: 0 auto;
-  padding: 0;
+  padding: -100px;
 }
 
 .scene2 {
+  max-width: 500px;
   margin: 0 auto;
   padding: 0;
 }
