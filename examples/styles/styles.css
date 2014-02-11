@@ -15,12 +15,9 @@ img {
 }
 
 #godzilla img{
-
-  float: left;   
-  width: 60%;   
-  margin-left: 50%;
-  margin-top: 20px;  
-  margin-right: -100%;
+  width: 110%;
+  margin-top: 50px;
+  padding-top: 100px;
 }
 
 
