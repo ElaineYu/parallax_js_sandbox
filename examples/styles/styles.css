@@ -15,9 +15,27 @@ img {
 }
 
 #godzilla img{
-  padding-left: 550px;
-  padding-top: 150px;
+
+  float: left;   
+  width: 60%;   
+  margin-left: 50%;
+  margin-top: 20px;  
+  margin-right: -100%;
+}
+
+
+
+
+
+#blue-wave img{
+    padding-top: 130px;
+}
+
+#pink-jellyfish-1 img{
   width: 50%;
+  padding-left: 350px;
+  padding-top: 670px;
+
 }
 
 #ship img{
